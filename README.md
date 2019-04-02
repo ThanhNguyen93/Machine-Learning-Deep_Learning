@@ -12,3 +12,9 @@ Techniques to be applied:
 - SVM (non-linear)
 - Random Forest (non-linear) 
 - ANN 
+
+Update results:
+- because this is case-control study, there should be no bias in subgroups/demographic, i.e. AUC should be the same across subgroups. 
+But current results do not support that!!! Train using LR and RF to track non-linear relationship, both LR and RF not the same either train subgroup together or train them separately 
+
+- more samples means higher accuracy, or more confident to predict. But current results not support that either! 

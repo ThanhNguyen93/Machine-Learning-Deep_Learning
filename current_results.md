@@ -1,5 +1,5 @@
 
-|AUC | 1.Train tog LR without Cal/Sodium | 2.Train separate LR without Cal/Sodium| 3.Train separate RF w Cal & sodium| 4.Train separate RF WITHOUT Cal/sodium| 5.Train tog RF w Cal_discretize| 6.Train tog LR w Cal_discretize| 7.Train separate RF w Cal_discretize| 8.Train separately LR w Cal_discretize| 
+|AUC | 1.Train together LR without Cal/Sodium | 2.Train separate LR without Cal/Sodium| 3.Train separate RF w Cal & sodium| 4.Train separate RF WITHOUT Cal/sodium| 5.Train together RF w Cal_discretize| 6.Train together LR w Cal_discretize| 7.Train separate RF w Cal_discretize| 8.Train separately LR w Cal_discretize| 
 | -------------------|--------| -------|-|-|-------------------|-------------------|-------------------|------------------| 
 | general| | | | | 0.7231341354430394 | 0.6739428774868241| 
 | Female (N = 53,852) |  0.6113 | 0.6108| | | 0.7246002843968344| 0.6709936850535729| 0.7243001496990089| 0.6720684241098112| 

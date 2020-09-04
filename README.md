@@ -1,10 +1,45 @@
-# Machine-Learning/Deep-Learning on domain adaptation
-thesis project. Building predictive modeling using statistical methods, machine learning and deep learning techniques
+# ms-project-template
+A template for students doing M.S. or undergraduate independent studies/theses.
 
+See instructions here: [Instructions.md](Instructions.md)
 
-Techniques to be applied:
-- Logistic Regression
-- SVM (non-linear)
-- Random Forest (non-linear) 
-- ANN 
-- DANN on confounding bias 
+This README.md file should summarize your project. Think of it as the short version of your project report.
+
+## Problem
+
+Here is the problem your are going to solve.
+
+## Research questions
+
+Here are the core questions / subproblems you will address:
+
+1. ...
+2. ...
+3. ...
+
+## Related work
+
+Here's how other people have tried to solve this problem, with a few links/citations. 
+
+## Data
+
+Here is a description of the data you collected.
+
+Here is an example data record.
+
+## Methods
+
+Here is an outline of your approach.
+
+## Results
+
+Here is a summary of the main results.
+
+You can include an image like this:
+
+![Image](../master/src/figures/iit.png?raw=true)
+
+## Conclusions / Future Work
+
+Here's the main conclusions and a list of directions for improvement.
+
